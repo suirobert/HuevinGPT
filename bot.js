@@ -96,7 +96,3 @@ client.on('messageCreate', async (message) => {
 });
 
 client.login(process.env.TOKEN);
-
-app.get('/', (req, res) => {
-  res.send('Bot is alive!');
-});
