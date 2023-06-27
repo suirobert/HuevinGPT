@@ -5,7 +5,7 @@ Este es un bot de Discord simple creado con discord.js y el modelo gpt-3.5-turbo
 
 1. Clona el repositorio al directorio actual
 ```powershell
-git clone https://github.com/suirobert/HuevinGPT .
+git clone https://github.com/suirobert/HuevinGPT.git .
 ```
 2. Instala todas las dependencias
 
